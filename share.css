@@ -1,0 +1,15 @@
+/* 호버 효과는 모든 화면 크기에 적용 */
+#shareButton:hover {
+  background-color: #fae1e1;
+}
+
+/* 호버 효과는 모든 화면 크기에 적용 */
+#studyButton:hover {
+  background-color: #bc2a40;
+}
+
+/* 하단부 안내 */
+.copyright {
+  width: 25rem;
+  font-size: 1rem;
+}
